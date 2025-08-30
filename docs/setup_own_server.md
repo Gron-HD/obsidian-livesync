@@ -137,7 +137,7 @@ Your CouchDB has been initialised successfully. If you want this manually, pleas
 - You can skip this instruction if you using only in intranet and only with desktop devices.
   - For mobile devices, Obsidian requires a valid SSL certificate. Usually, it needs exposing the internet.
 
-Whatever solutions we can use. For simplicity, the following sample uses Cloudflare Zero Trust for testing.
+Whatever solutions are available to you. For simplicity, the following sample uses Cloudflare Zero Trust for testing.
 
 ```
 cloudflared tunnel --url http://localhost:5984
